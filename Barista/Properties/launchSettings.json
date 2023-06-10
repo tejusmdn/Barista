@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Barista": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7256",
+      "launchBrowser": false
+    }
+  }
+}
